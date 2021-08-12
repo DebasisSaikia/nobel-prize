@@ -19,5 +19,9 @@ export const categoriesData = [
     {
         id: 5,
         category: 'economics'
+    },
+    {
+        id: 6,
+        category: 'peace'
     }
 ]
