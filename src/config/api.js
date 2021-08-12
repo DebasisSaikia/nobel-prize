@@ -1,1 +1,1 @@
-export const base_url = `http://api.nobelprize.org/v1/prize.json`
+export const base_url = `https://api.nobelprize.org/v1/prize.json`
